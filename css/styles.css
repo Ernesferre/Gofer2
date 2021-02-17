@@ -10067,7 +10067,8 @@ h3 {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #1abc9c;
+  color: black;
+
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
@@ -10112,7 +10113,7 @@ h3 {
 }
 .masthead {
   padding-top: calc(6rem + 74px);
-  padding-bottom: 6rem;
+  /* padding-bottom: 6rem; */
   
 }
 
@@ -10120,6 +10121,15 @@ h3 {
  
   height: 40rem;
   padding-top: 4rem ;
+  background-image: url("../assets/img/fondologo.jpg");
+  margin-top: -6rem;
+  background-color: rgba(0,0,0,0);
+  
+  
+  
+  
+ 
+
 
 }
 
